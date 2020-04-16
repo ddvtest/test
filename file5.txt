@@ -1,3 +1,4 @@
 test file
 new commit 5
 new commit 6
+new commit 7
